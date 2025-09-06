@@ -25,8 +25,7 @@ nome_arquivo = "99~x"
 
 ## Dependências
 
-- [pyundertale](https://github.com/CoffeeBeansama/PyUndertale/blob/main/README.md) (adicione o link real do projeto)
-
+- [pyundertale](https://github.com/CoffeeBeansama/PyUndertale/blob/main/README.md) 
 ## Pasta Sugerida
 
 - `src/` — arquivos da linguagem e exemplos
