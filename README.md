@@ -34,4 +34,4 @@ nome_arquivo = "99~x"
 
 ## Licença
 
-Coloque aqui a licença do seu projeto.
+nao use esta linguagem ara criar malwares nao use esta linguagem ara o mau nao mande arquivos do git que use esta linguagem sem minha ermisssao e a comunidade do locallfs nao deve ser hackeada obrigado.
