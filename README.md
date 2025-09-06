@@ -1,2 +1,38 @@
-# luckfucksystem
-minha linguagem de rogramacao 
+# local.lfs
+
+Uma linguagem de programação experimental criada por nooblox601.
+
+## Exemplo
+
+```local.lfs
+scrit local.lfs
+# O que acontece se 1+1 = 2 objetos em um rogram
+
+objeto1 = 1
+objeto2 = 1
+
+resultado = objeto1 + objeto2
+
+print("Resultado:", resultado)  # Esperado: Resultado: 2
+
+import pyundertale
+
+pyundertale.executar("exemplo")
+
+chave_encriptada = "yylgyugyogy68gygy8y86fyf7i"
+nome_arquivo = "99~x"
+```
+
+## Dependências
+
+- [pyundertale](https://github.com/coffebeansamma/pyundertale) (adicione o link real do projeto)
+
+## Pasta Sugerida
+
+- `src/` — arquivos da linguagem e exemplos
+- `docs/` — documentação da linguagem
+- `tests/` — testes e exemplos de compilação/execução
+
+## Licença
+
+Coloque aqui a licença do seu projeto.
